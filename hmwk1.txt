@@ -1,0 +1,1 @@
+First to make a new file use nano <filename>.txt 
