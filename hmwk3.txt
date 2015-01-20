@@ -1,0 +1,5 @@
+confirm with git log 
+confirm with git branch to see where your head is
+directed to. Very important when trying to merge
+
+
