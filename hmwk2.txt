@@ -1,0 +1,3 @@
+git add teapot.txt stages the file name to commit 
+Once you've added the file then 
+type git commit to  saves 
